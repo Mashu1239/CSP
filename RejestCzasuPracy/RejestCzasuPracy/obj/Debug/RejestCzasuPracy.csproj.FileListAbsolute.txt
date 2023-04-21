@@ -1,0 +1,11 @@
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\bin\Debug\RejestCzasuPracy.exe.config
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\bin\Debug\RejestCzasuPracy.exe
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\bin\Debug\RejestCzasuPracy.pdb
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\obj\Debug\RejestCzasuPracy.csproj.AssemblyReference.cache
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\obj\Debug\RejestCzasuPracy.csproj.SuggestedBindingRedirects.cache
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\obj\Debug\RejestCzasuPracy.Form1.resources
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\obj\Debug\RejestCzasuPracy.Properties.Resources.resources
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\obj\Debug\RejestCzasuPracy.csproj.GenerateResource.cache
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\obj\Debug\RejestCzasuPracy.csproj.CoreCompileInputs.cache
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\obj\Debug\RejestCzasuPracy.exe
+C:\Users\mashu\source\repos\RejestCzasuPracy\RejestCzasuPracy\obj\Debug\RejestCzasuPracy.pdb
