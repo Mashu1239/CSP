@@ -1,0 +1,11 @@
+C:\Users\mashu\source\repos\Stoper2\Stoper2\bin\Debug\Stoper2.exe.config
+C:\Users\mashu\source\repos\Stoper2\Stoper2\bin\Debug\Stoper2.exe
+C:\Users\mashu\source\repos\Stoper2\Stoper2\bin\Debug\Stoper2.pdb
+C:\Users\mashu\source\repos\Stoper2\Stoper2\obj\Debug\Stoper2.csproj.AssemblyReference.cache
+C:\Users\mashu\source\repos\Stoper2\Stoper2\obj\Debug\Stoper2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mashu\source\repos\Stoper2\Stoper2\obj\Debug\Stoper2.Form1.resources
+C:\Users\mashu\source\repos\Stoper2\Stoper2\obj\Debug\Stoper2.Properties.Resources.resources
+C:\Users\mashu\source\repos\Stoper2\Stoper2\obj\Debug\Stoper2.csproj.GenerateResource.cache
+C:\Users\mashu\source\repos\Stoper2\Stoper2\obj\Debug\Stoper2.csproj.CoreCompileInputs.cache
+C:\Users\mashu\source\repos\Stoper2\Stoper2\obj\Debug\Stoper2.exe
+C:\Users\mashu\source\repos\Stoper2\Stoper2\obj\Debug\Stoper2.pdb
